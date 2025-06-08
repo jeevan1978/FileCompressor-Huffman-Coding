@@ -11,7 +11,7 @@ This C++ project implements **Huffman Coding**, a popular lossless data compress
 - Stores both the encoded data and the Huffman map in a binary file
 - Decompresses encoded binary files back to the original text
 
-## 📂 Project Structure
+##  Project Structure
 
 
 ├── .vscode/ # VSCode configuration folder
@@ -29,7 +29,7 @@ This C++ project implements **Huffman Coding**, a popular lossless data compress
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ### Compression:
 1. Reads `file.txt`.
@@ -45,7 +45,7 @@ This C++ project implements **Huffman Coding**, a popular lossless data compress
 
 ---
 
-## 🛠️ Build & Run
+## 🛠 Build & Run
 
 ### Requirements
 - C++ Compiler (`g++` recommended)
